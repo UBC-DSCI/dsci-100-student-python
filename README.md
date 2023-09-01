@@ -75,7 +75,7 @@ By the end of the course, students will be able to:
 | 008     | Instructor         | Vivian Meng        | vivian.meng[-at-]stat.ubc.ca        |              |                      |
 | 101     | Instructor         | Joel Ostblom       | joel.ostblom[-at-]ubc.ca            |              |                      |
 
-**Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
+**Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing exam/assignment due to sickness) below before contacting**.
 
 When sending emails, please include DSCI 100 in the subject line.
 
@@ -86,7 +86,7 @@ When sending emails, please include DSCI 100 in the subject line.
 - One final covering all the material in the course
     - To be scheduled by Classroom Services. Invigilated in-person.
 
-**Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of quizzes), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
+**Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of exams), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
 
 In each class (lecture and tutorial) there will be an assignment:
 
@@ -146,11 +146,11 @@ In each class (lecture and tutorial) there will be an assignment:
 
 Students who register for the class late have 1 week from their registration date on Canvas to complete all prior assignments.
 
-### Late Assignments / Quiz Absence
+### Late Assignments / Exam Absence
 
-Students **must be present** at the invigilation venue (in class, examination centre, etc) to take quizzes; otherwise they will be considered to have missed the quiz and will be assigned a grade of zero.
+Students **must be present** at the invigilation venue (in class, examination centre, etc) to take exams; otherwise they will be considered to have missed the exam and will be assigned a grade of zero.
 
-Students who will miss a quiz **must provide a self-declaration of academic concession prior to the quiz** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the quiz will result in a grade of zero.
+Students who will miss an exam **must provide a self-declaration of academic concession prior to the exam** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the exam will result in a grade of zero.
 
 There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest 2 grades on tutorials and worksheets for the semester. However, if you have extenuating circumstances and require further accommodations, please contact the course coordinator.
 
@@ -172,15 +172,15 @@ Note if you received 0 on an assignment when you shouldn't have, please contact 
 
 ### Device/Browser
 
-Students are responsible for using a device and browser compatible with all functionality of Canvas. Chrome or Firefox browsers are recommended; Safari has had issues with Canvas quizzes in the past.
+Students are responsible for using a device and browser compatible with all functionality of Canvas. Chrome or Firefox browsers are recommended; Safari has had issues with Canvas exams in the past.
 
 ### Missed Final Exam
 
-Students who miss the final quiz must report to their faculty advising office within 72 hours of the missed exam, and must supply supporting documentation. Only your faculty advising office can grant deferred standing in a course. You must also notify your instructor prior to (if possible) or immediately after the exam. Your instructor will let you know when you are expected to write your deferred exam. Deferred exams will ONLY be provided to students who have applied for and received deferred standing from their faculty.
+Students who miss the final exam must report to their faculty advising office within 72 hours of the missed exam, and must supply supporting documentation. Only your faculty advising office can grant deferred standing in a course. You must also notify your instructor prior to (if possible) or immediately after the exam. Your instructor will let you know when you are expected to write your deferred exam. Deferred exams will ONLY be provided to students who have applied for and received deferred standing from their faculty.
 
 ### Academic Concession Policy
 
-Please see [UBC's concession policy](http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,329,0,0) for detailed information on dealing with missed coursework, quizzes, and exams under circumstances of an acute and unanticipated nature.
+Please see [UBC's concession policy](http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,329,0,0) for detailed information on dealing with missed coursework and exams under circumstances of an acute and unanticipated nature.
 
 See our Canvas homepage for the academic concession form.
 
@@ -200,7 +200,7 @@ Students must correctly cite any code or text that has been authored by someone 
 
 An "adequate acknowledgement" requires a detailed identification of the (parts of the) code or text reused and a full citation of the original source code that has been reused.
 
-The above attribution policy applies only to assignments. **No code or text may be copied (with or without attribution) from any source during a quiz or exam. Answers must always be in your own words. At a minimum, copying will result in a grade of 0 for the related question.**
+The above attribution policy applies only to assignments. **No code or text may be copied (with or without attribution) from any source during an exam. Answers must always be in your own words. At a minimum, copying will result in a grade of 0 for the related question.**
 
 **Repeated plagiarism of any form could result in larger penalties, including failure of the course.**
 
