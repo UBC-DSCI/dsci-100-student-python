@@ -7903,6 +7903,16 @@ main {
 <p>We get an error when parsing the file!
 To understand what's going on,
 let's have a look at the file.</p>
+</div>
+</div>
+</div>
+</div></section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>We can see that there are many comments in the beginning,
 before the data.
 We want to skip all these 24 rows of comments when we read in the file.
@@ -7913,6 +7923,16 @@ We can do this with the <code>skiprows</code> parameter:</p>
 that usually means the <code>sep</code> you are using is incorrect.
 By deafault, <code>read_csv</code> looks for commas separating the values in the file,
 but if we look at the file we see that it is actually whitespaces (blanks or tabs).</p>
+</div>
+</div>
+</div>
+</div></section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>The file is read in1
 But there is an issue with the number of columns not being correctly identified,
 as we were expecting two columns: <code>eruptions</code> and <code>waiting</code>.
@@ -7927,6 +7947,16 @@ Let's use the sep argument to specify that whitespace separates the columns:</p>
 </blockquote>
 <pre><code>df = pd.read_csv(my_url, skiprows=24, sep='\s+')
 </code></pre>
+</div>
+</div>
+</div>
+</div></section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>We may also want to supply the column names ourselves:</p>
 <pre><code>df = pd.read_csv(my_url, skiprows=24, sep='\s+', names=['eruption_time', 'waiting_time'])
 </code></pre>
@@ -8049,7 +8079,7 @@ Let's use the sep argument to specify that whitespace separates the columns:</p>
 </div>
 </div>
 </div>
-</div><div class="fragment"><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
+</div></section></section><section><section><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -8085,7 +8115,7 @@ memory usage: 6.4 KB
 </div>
 </div>
 </div>
-</div></div></section></section><section><section>
+</div></section></section><section><section>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
